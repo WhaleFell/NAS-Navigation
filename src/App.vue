@@ -81,7 +81,7 @@ const testFunc = async () => {
     const tag = document.querySelector(`#${key}`)
     if (!tag) continue
     const requests = Array.from(
-      { length: 20 },
+      { length: 5 },
       async () => {
         const result = await pingUrl(
           `${url}?${Date.now()}`,

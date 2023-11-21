@@ -1,20 +1,50 @@
 {
-  "title": "网页标题",
+  "title": "WhaleFall's Home Server",
   "items": [
     {
-      "desc": "Docker 容器管理",
-      "icon": "图标",
+      "desc": "Docker Container",
+      "icon": "",
       "url": ":9000/"
     },
     {
-      "desc": "Aira2",
-      "icon": "https://missav.com/",
+      "desc": "AiraNG",
+      "icon": "",
       "url": ":6880/"
     },
     {
-      "desc": "Adult Video",
+      "desc": "qBittorrent",
+      "icon": "",
+      "url": ":8600/"
+    },
+    {
+      "desc": "V2raya",
+      "icon": "",
+      "url": ":2017/"
+    },
+    {
+      "desc": "Alist",
+      "icon": "",
+      "url": ":5244/"
+    },
+    {
+      "desc": "HomeBox 测速",
+      "icon": "",
+      "url": ":3300/"
+    },
+    {
+      "desc": "Adult Video missav",
       "icon": "https://missav.com/",
       "url": "https://missav.com/"
+    },
+    {
+      "desc": "Adult Video javlibrary",
+      "icon": "https://missav.com/",
+      "url": "https://javlibrary.com/"
+    },
+    {
+      "desc": "AI Instrument Assistant",
+      "icon": "https://poe.com/",
+      "url": "https://poe.com/"
     }
   ]
 }
