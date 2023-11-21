@@ -1,0 +1,20 @@
+{
+  "title": "网页标题",
+  "items": [
+    {
+      "desc": "Docker 容器管理",
+      "icon": "图标",
+      "url": ":9000/"
+    },
+    {
+      "desc": "Aira2",
+      "icon": "https://missav.com/",
+      "url": ":6880/"
+    },
+    {
+      "desc": "Adult Video",
+      "icon": "https://missav.com/",
+      "url": "https://missav.com/"
+    }
+  ]
+}
