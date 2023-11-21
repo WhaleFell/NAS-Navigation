@@ -48,6 +48,7 @@ Json 配置文件的格式
 1. 优化大小
 2. 美化
 3. 实现 LOG
+4. 增加对 http https 的判断
 
 ## Recommended IDE Setup
 

@@ -8,8 +8,28 @@
     },
     {
       "desc": "Aira2",
-      "icon": "https://missav.com/",
+      "icon": "",
       "url": ":6880/"
+    },
+    {
+      "desc": "qBittorrent",
+      "icon": "",
+      "url": ":8600/"
+    },
+    {
+      "desc": "V2raya",
+      "icon": "",
+      "url": ":2017/"
+    },
+    {
+      "desc": "V2raya",
+      "icon": "",
+      "url": ":2017/"
+    },
+    {
+      "desc": "Alist",
+      "icon": "",
+      "url": ":5244/"
     },
     {
       "desc": "Adult Video",
