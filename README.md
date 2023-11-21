@@ -2,9 +2,11 @@
 
 Base on Vue 3 + TypeScript + Vite
 
-一个自用的 NAS 导航页，支持测速，自动识别链接内外网，HTML一个单页，json 文件配置，之类的云云。
+一个自用的 NAS 导航页，支持测速，自动识别链接内外网，HTML一个单页，json 文件配置，无需任何环境就一个 webserver 就可以了，之类的云云。
 
 作为一个 Vue3 小白，这个单页 HTMLN 还是有点大了 500KB，而且太单调了，不过能用就行
+
+![Look at](public/demo.png)
 
 ## Depoly 部署
 
@@ -12,8 +14,8 @@ SSH 链接到服务器 cd 到 website 目录
 
 ```shell
 wget https://raw.githubusercontent.com/WhaleFell/NAS-Navigation/main/dist/index.html
-mkdir publish
-vim publish/config.json
+mkdir public
+vim public/config.json
 ```
 
 Json 配置文件的格式
